@@ -1,6 +1,9 @@
 # DIO - Trilha .NET - Testes Unitários com C#
 www.dio.me
 
+## Consideração sobre versão:
+O projeto original usa a versão 6.0 do .NET, enquanto a máquina em que o projeto foi desenvolvido usa a versão 8.0. Caso sua máquina use outra versão, navegue até os arquivos csproj nomeados: TestesUnitarios.Desafio.Console e TestesUnitarios.Desafio.Tests e altere o valor entre as tags TargetFramework de net8.0 para net6.0, ou a versão utilizada pela sua máquina.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
 
